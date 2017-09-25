@@ -1,2 +1,2 @@
 # KABasicLoginSignup
-This is a Basic Log in and Sign up !!!
+This is a Basic Log in with Sign up !!!
